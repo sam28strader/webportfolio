@@ -1,0 +1,4 @@
+Plans For Web Portfolio  
+Sam Strader
+
+	The plans I have for my web portfolio is to create a website that showcases the two primary ways I can show my skill set to any employers. I will do this by adding a section for my visual argument that I did as well as a section for a video I create through video editing. The home page or index page will give a background of myself. So far, I have only put down the bar bones onto the main html page, as well as create the links. I need to finish the html text in the next few days, and then I can do all of the css. I believe I should add another section to add more about myself and my skill set, but I don’t have anything else in mind. I’m excited to create a website that is able to showcase everything I want, and I want it to look clean and be inspired by sports. 
